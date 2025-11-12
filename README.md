@@ -56,3 +56,7 @@ src/
   ├── App.tsx         # 根组件
   └── main.tsx        # 入口文件
 ```
+
+## 规划与待办
+
+- [课程冲突检测功能规划](docs/course-conflict-detection.md)：记录 Issue 的目标、范围、优先级、资源与下一步任务，为后续开发提供依据。
